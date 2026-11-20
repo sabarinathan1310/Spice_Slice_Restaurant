@@ -8,7 +8,7 @@ body,h2{
     font-family: Arial, sans-serif;
 }
 .landing{
-    background-image: url('media/bg.jpg');
+    background-image: url('/media/bg.webp');
     background-size: cover;
     background-position: center;
     height: 100vh;

@@ -1,5 +1,6 @@
 # Spice Slice
 
+our live site is here
 [View the live site](https://spice-slice.netlify.app/.)
 
 A simple, responsive restaurant landing page for Spice Slice, a vegetarian restaurant concept in Chennai. The page highlights the menu, restaurant locations, and an external online-order link.
